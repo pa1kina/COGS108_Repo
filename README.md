@@ -1,2 +1,2 @@
 # COGS108_Repo
-COGS 108 Repo Winter 2025
+Winter 2025
